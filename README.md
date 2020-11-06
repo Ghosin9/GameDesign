@@ -1,2 +1,2 @@
 # GameDesign
-Portfolio for all my game design work
+Some small games I have created for class projects
